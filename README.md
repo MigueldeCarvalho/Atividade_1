@@ -1,2 +1,2 @@
-# Atividade_1_HTML
+# Atividade_1_HTML_básico
 Marisangela
